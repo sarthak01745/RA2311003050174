@@ -210,7 +210,6 @@ Logs are submitted to `/api/logs` endpoint for backend processing.
 - Check server logs for bottlenecks
 
 ### Images
-<img width="988" height="777" alt="Screenshot 2026-05-02 121151" src="https://github.com/user-attachments/assets/7519d1a4-c5a0-46ac-b9e8-8ca9f1a88699" />
 <img width="1860" height="863" alt="Screenshot 2026-05-02 124448" src="https://github.com/user-attachments/assets/c72b7862-523e-4dff-aeef-231a38a23c63" />
 <img width="1914" height="866" alt="Screenshot 2026-05-02 124502" src="https://github.com/user-attachments/assets/8ea5555d-c085-4176-9b7e-98f1e4090046" />
 
